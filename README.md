@@ -55,7 +55,7 @@ git clone https://github.com/Ishankohli04/Ola-Data-Analytics-End-to-End-Project-
 ```
 
 ### Data Exploration
-- Open `Bookings2.xlsx` in Excel to explore raw ride data.
+- Open <a href="https://github.com/Ishankohli04/Ola-Data-Analytics-End-to-End-Project-/blob/main/Bookings2.xlsx"> Raw Dataset</a> in Excel to explore raw ride data.
 - Use `ola_data_analytics.sql` for running SQL queries on the dataset.
 - Load `Ola Dashboard.pbix` in Power BI Desktop to analyze interactive dashboards.
 
