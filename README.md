@@ -1,5 +1,7 @@
 # Ola Data Analytics End-to-End Project
 
+![OLA Logo](https://github.com/Ishankohli04/Ola-Data-Analytics-End-to-End-Project/blob/main/image.png)
+
 ## Project Overview
 
 This project analyzes Ola ride data for Bengaluru, focusing on booking trends, ride cancellations, demand patterns, and customer behavior. The goal is to extract meaningful insights and provide data-driven recommendations for service improvement.
@@ -56,8 +58,8 @@ git clone https://github.com/Ishankohli04/Ola-Data-Analytics-End-to-End-Project-
 
 ### Data Exploration
 - Open <a href="https://github.com/Ishankohli04/Ola-Data-Analytics-End-to-End-Project-/blob/main/Bookings2.xlsx"> Raw Dataset</a> in Excel to explore raw ride data.
-- Use `ola_data_analytics.sql` for running SQL queries on the dataset.
-- Load `Ola Dashboard.pbix` in Power BI Desktop to analyze interactive dashboards.
+- Use <a href ="https://github.com/Ishankohli04/Ola-Data-Analytics-End-to-End-Project/blob/main/ola_data_analytics.sql"> SQL Solved Questions</a> for running SQL queries on the dataset.
+- Load <a href ="http://github.com/Ishankohli04/Ola-Data-Analytics-End-to-End-Project/blob/main/Ola%20Dashboard.pbix"> Dashboard</a> in Power BI Desktop to analyze interactive dashboards.
 
 ## Contact Information
 For queries or collaboration, reach out via:
